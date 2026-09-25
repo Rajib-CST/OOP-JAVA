@@ -1,0 +1,3 @@
+interface Formatter {
+    String format();
+}

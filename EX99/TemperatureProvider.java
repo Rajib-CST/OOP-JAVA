@@ -1,0 +1,3 @@
+interface TemperatureProvider {
+    double getTemperatureCelsius();
+}
