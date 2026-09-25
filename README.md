@@ -17,4 +17,3 @@ This repository contains Java exercises arranged in numbered folders. The folder
 | `EX92`-`EX104` | Design patterns |
 | `EX105`-`EX115` | Sample projects |
 
-Each exercise folder contains the Java source files for that topic. The folder on disk currently named `Ex12` belongs to the `EX12`-`EX17` fundamentals range.
